@@ -1,0 +1,8 @@
+Thông tin phiếu thuốc 79DHL2601766-c
+Tên (hoạt chất - hàm lượng)	Số lô	Hạn dùng	Đơn vị tính	Số lượng theo đơn	Số lượng xuất	Đơn giá	Thành tiền	Trạng thái	Trạng thái cấp
+
+MHaescin 40mg ( - )
+0010526	20/05/2029	Viên	24	24	17.000,00	408.000,00	Đã thanh toán	Chưa cấp
+
+MHaescin 40mg ( - )
+0010526	20/05/2029	Viên	4	4	17.000,00	68.000,00	Đã thanh toán	Chưa cấp
